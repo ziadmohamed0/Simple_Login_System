@@ -4,7 +4,8 @@
 *       @   File_Name           :   Main.c
 *       @   Engineer_Name       :   Ziad_Mohammed_Fathi_Mohammed.
 *       @   Date                :   14/1/2024.
-*       @   Breif               :	Login system if The pass is Correct open And print welcome.
+*       @   Breif               :	Login system Enter the pass Number by Number Or letter By Letter if The pass is Correct 
+									open And print welcome.
 									else loop this process Until the password is written correctly.
 									He has three times, and if he counts them, he will be removed from the program
 ===============================================================================================================================
